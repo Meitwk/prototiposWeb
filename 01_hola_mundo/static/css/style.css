@@ -1,0 +1,31 @@
+/* ñam */
+
+header {
+    text-align:center;/* Centrar texto */
+    background-color:gray;/* Este es un color de fondo */
+}
+header:hover{
+    background-color:darkgrey;
+
+}
+main{
+    background-color:rgb(156, 109, 154);
+}
+main:hover {
+    background-color:rgb(130, 106, 155);
+}
+footer {
+    background-color:rgb(156, 109, 154);
+}
+footer:hover{
+    background-color:rgb(150, 121, 179);
+}
+h1 {
+    color:black;/* cambia color de las letras */
+}
+h2 {
+    color:rgb(55, 46, 63);
+}
+p{
+    color:rgb(71, 56, 85);
+}
